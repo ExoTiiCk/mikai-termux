@@ -7,7 +7,7 @@ pkg upgrade -y
 # Installation des dépendances
 pkg install -y cmake
 pkg install -y libnfc
-pkg install -y gcc
+pkg install -y llvm
 pkg install -y make
 pkg install -y git
 

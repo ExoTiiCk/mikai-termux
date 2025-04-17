@@ -13,8 +13,8 @@ pkg update
 pkg install -y git cmake libnfc gcc make
 
 # Récupération du projet
-git clone https://github.com/votre-username/mikai.git
-cd mikai
+git clone https://github.com/ExoTiiCk/mikai-termux.git
+cd mikai-termux
 
 # Installation
 chmod +x install-termux.sh
